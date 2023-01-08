@@ -174,30 +174,7 @@
     .plans_icon .plans_icon_first img{
         margin-left: 60px;
     }
-    /* .plans_icon .plans_icon_first p{
-        margin-right: 50px;
-
-
-    }
-    .plans_icon_two p{
-        margin-right: 50px;
-    } */
-     /*
-    .plans_icon_two h3{
-        font-size: 25px;
-        font-family: 'Work Sans', sans-serif;
-        font-weight: 700;
-    }
-    .plans_icon_three h3{
-        font-size: 25px;
-        font-family: 'Work Sans', sans-serif;
-        font-weight: 700;
-    }
-    .plans_icon_four h3{
-        font-size: 25px;
-        font-family: 'Work Sans', sans-serif;
-        font-weight: 700;
-    } */
+  
    
 /* ===============
     plan top end
@@ -306,7 +283,7 @@
      }
 
      .subscribe{
-        padding-left: 180px;
+        padding-left: 100px;
         padding-top: 130px;
      }
      .subscribe .subscribe-main{
@@ -338,7 +315,7 @@
       
 }
 .subscribe-button{
-       width: 135px;
+       width: 125px;
         height: 60px;
         color: #F15B22;
         font-family: 'Work Sans', sans-serif;
