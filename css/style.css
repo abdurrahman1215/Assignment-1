@@ -21,7 +21,7 @@
     .banner{
         background-image: url(../images/banner/banner2.png);
         background-repeat: no-repeat;
-        height: 100vh;
+        height: 110vh;
     }
     .banner .banner_text {
         text-align: right;
